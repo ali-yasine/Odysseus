@@ -1,4 +1,4 @@
-#this file is used for octopus purposes changee main.ipynb
+#this file is used for octopus purposes change main.ipynb
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
