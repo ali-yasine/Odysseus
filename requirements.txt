@@ -1,8 +1,5 @@
 pandas
 numpy
-klib
-matplotlib
 sklearn
 xgboost
-pytorch_tabnet
-torch
+tensorflow
